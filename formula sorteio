@@ -1,0 +1,7 @@
+function sorteio (){
+let numero = Math.randomm() *10;
+
+document.getElementaryByild ("resultdo").innerText=
+"Numero orteado: " + numero;
+}
+
